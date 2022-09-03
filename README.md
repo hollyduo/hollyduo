@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Holly.
+- 🌱 I’m currently learning frontend development with react.
